@@ -1912,7 +1912,7 @@ init 5 python:
     addEvent(Event(persistent.event_database,eventlabel="monika_books",category=['literature','literature club'],prompt="Books",random=True))
 
 label monika_books:
-    m 4 "For a literature club, we did a lot less book reading then you might have thought."
+    m 4 "For a literature club, we did a lot less book reading than you might have thought."
     m 4l "It just turned out that the four of us liked poetry better than books. Sorry!"
     m 2 "It's also a lot easier to foreshadow spooky stuff with poems."
     m 3a "I still love a good book, though! We can talk about them if you just finished reading something."
